@@ -39,6 +39,7 @@ colorscheme jellybeans
 
 au BufNewFile,BufRead,BufEnter   *.rst     setlocal spell    spelllang=de_ch
 au BufNewFile,BufRead,BufEnter   *.wiki    setlocal spell    spelllang=de_ch
+au BufNewFile,BufRead,BufEnter   *.tex     setlocal spell    spelllang=de_ch
 au BufNewFile,BufRead,BufEnter   *.md      setlocal spell    spelllang=de_ch
 au BufNewFile,BufRead,BufEnter   *.txt     setlocal spell    spelllang=de_ch
 au BufNewFile,BufRead,BufEnter   README    setlocal spell    spelllang=en_us
