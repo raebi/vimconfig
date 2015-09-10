@@ -37,12 +37,12 @@ colorscheme jellybeans
 
 " set spellchecker for text file on 
 
-au BufNewFile,BufRead,BufEnter   *.rst     setlocal spell    spelllang=de_ch
-au BufNewFile,BufRead,BufEnter   *.wiki    setlocal spell    spelllang=de_ch
-au BufNewFile,BufRead,BufEnter   *.tex     setlocal spell    spelllang=de_ch
-au BufNewFile,BufRead,BufEnter   *.md      setlocal spell    spelllang=de_ch
-au BufNewFile,BufRead,BufEnter   *.txt     setlocal spell    spelllang=de_ch
-au BufNewFile,BufRead,BufEnter   README    setlocal spell    spelllang=en_us
+"au BufNewFile,BufRead,BufEnter   *.rst     setlocal spell    spelllang=de_ch
+"au BufNewFile,BufRead,BufEnter   *.wiki    setlocal spell    spelllang=de_ch
+"au BufNewFile,BufRead,BufEnter   *.tex     setlocal spell    spelllang=de_ch
+"au BufNewFile,BufRead,BufEnter   *.md      setlocal spell    spelllang=de_ch
+"au BufNewFile,BufRead,BufEnter   *.txt     setlocal spell    spelllang=de_ch
+"au BufNewFile,BufRead,BufEnter   README    setlocal spell    spelllang=en_us
 
 
 " run python code with hit F5
